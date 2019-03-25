@@ -39,11 +39,11 @@
         },
         "ergal": {
             "hashes": [
-                "sha256:62031b5086f32008f5cf74b79b2d5cbf2c4a393dd701b1cfaf47f0f718f75234",
-                "sha256:f21c3e6d67c5e2663429f5f9920b1dc99f0ca4ca40eb24e376f2229ac76a5bfa"
+                "sha256:031178b70dbf3dd3227a8c6fc06bb5ab4fb1374e98f2273b1919853ddf8fe7b8",
+                "sha256:fcfd01b27229d90bbae29d008e4c8207855b02cf764cf5de3e78ea2c4bbb471b"
             ],
             "index": "pypi",
-            "version": "==1.0.1"
+            "version": "==1.0.2"
         },
         "flask": {
             "hashes": [
@@ -168,10 +168,10 @@
         },
         "isort": {
             "hashes": [
-                "sha256:18c796c2cd35eb1a1d3f012a214a542790a1aed95e29768bdcb9f2197eccbd0b",
-                "sha256:96151fca2c6e736503981896495d344781b60d18bfda78dc11b290c6125ebdb6"
+                "sha256:08f8e3f0f0b7249e9fad7e5c41e2113aba44969798a26452ee790c06f155d4ec",
+                "sha256:4e9e9c4bd1acd66cf6c36973f29b031ec752cbfd991c69695e4e259f9a756927"
             ],
-            "version": "==4.3.15"
+            "version": "==4.3.16"
         },
         "lazy-object-proxy": {
             "hashes": [
